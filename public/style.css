@@ -13,31 +13,3 @@ body {
     transition: background-color 0.3s ease;
 }
 
-/* Main container styles */
-.container {
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 20px;
-}
-
-/* Basic heading styles */
-h1 {
-    margin-bottom: 20px;
-    color: #333;
-}
-
-/* Button styles */
-.color-button {
-    padding: 10px 20px;
-    font-size: 16px;
-    background-color: #4CAF50;
-    color: white;
-    border: none;
-    border-radius: 4px;
-    cursor: pointer;
-    transition: background-color 0.3s ease;
-}
-
-.color-button:hover {
-    background-color: #45a049;
-}
